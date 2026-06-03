@@ -22,9 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-# Design docs
-Sacred-ID-Digital-Architecture-DESIGN.md
-hero-right-webgl-prompt.md
-
-# Temporary design folder
-stitch_naazneet_immersive_portfolio/
