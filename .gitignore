@@ -21,13 +21,19 @@ client/.env
 
 # Large files / media binaries (to prevent Git bloat and GitHub push failures)
 *.pdf
-!client/public/*.pdf
 *.zip
 *.tar.gz
 *.mp4
 *.mov
 *.wav
 *.mp3
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.gif
+client/public/
+client/src/assets/
 
 # Operating System files
 .DS_Store
